@@ -1,3 +1,3 @@
-module github.com/hirokimoto/info-swaps
+module github.com/hirokimoto/info-swap
 
 go 1.17
